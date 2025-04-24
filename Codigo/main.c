@@ -16,7 +16,8 @@ int main()
 
     loop(tablero);
 
-    printf("GAME OVER");
+    printf("GAME OVER\n\n");
+    system("pause");
     return 0;
 }
 
