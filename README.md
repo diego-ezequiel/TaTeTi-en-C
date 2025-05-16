@@ -1,2 +1,2 @@
 # TaTeTi-en-C
-Ta Te Ti por consola, hecho en C.
+Ta Te Ti player vs IA, por consola, hecho en C.
